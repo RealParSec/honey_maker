@@ -56,3 +56,6 @@
 3. Insert your bot token into `bot.token`
 4. Config the bot to your likings using `config.lua` (not much there but meybe something)
 5. Start the bot using either `run.bat` or `run.sh` depending on your OS
+
+## Disclaimer
+**This bot will not recieve any major updates**, it is what it is, and only updates that will happen will only relate to currently existing features.
