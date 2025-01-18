@@ -1,4 +1,4 @@
-# Honey Maker
+# Honey Maker - Archive
 ### Simple discord bot for roleplay purposes
 ## Requirements
 * [Luvit](https://luvit.io/) version 2.x
@@ -58,4 +58,4 @@
 5. Start the bot using either `run.bat` or `run.sh` depending on your OS
 
 ## Disclaimer
-**This bot will not recieve any major updates**, it is what it is, and only updates that will happen will only relate to currently existing features.
+**This will not receive any updates, it is what it is**
